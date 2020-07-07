@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! I am Mandy and this is my laboratory of studies 
+I am Mandy and this is my laboratory of studies 
 and experiences. 
 Feel free to contribute and learn from me!
 
