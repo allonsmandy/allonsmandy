@@ -10,3 +10,4 @@ Feel free to contribute and learn from me!
 - ✍ hobbies: read, write, study, watch and code
 - 👩‍💻 my website: http://allonsmandy.netlify.com/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allonsmandy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
