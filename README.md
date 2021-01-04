@@ -1,4 +1,3 @@
-![](https://allonsmandy.netlify.app/static/escuro-6a7657eeab0c092253579a7e37a827b7.gif)
 ### Hi there 👋
 
 I am Mandy and this is my laboratory of studies 
