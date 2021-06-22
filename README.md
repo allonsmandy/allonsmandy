@@ -3,6 +3,8 @@
 Olá! Eu sou a Mandy e este é meu laboratório de estudos e experiências. Fique a vontade para contribuir e aprender comigo!
 
 ---
+- 👩🏼‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
+- 🪐 Desenvolvedora na [Instruct](https://instruct.com.br/)
 - 💻 stack principal: ecossistema front-end
 - ✍ hobbies: ler, escrever, estudar, assistir e codificar
 - 👩‍💻 website: http://allonsmandy.netlify.com/
