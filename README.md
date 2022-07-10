@@ -1,5 +1,4 @@
-![augustin-cart-gif-lofi-final](https://user-images.githubusercontent.com/39445219/178159453-c008e9ef-d2d2-4d97-9906-09a873f543a4.gif)
-
+<img src="https://user-images.githubusercontent.com/39445219/178159906-f741a1fc-a380-474f-aa6b-fbefebd83364.jpg" />
 
 Olá! Eu sou a Mandy e este é meu laboratório de estudos e experiências. Fique a vontade para contribuir e aprender comigo!
 
