@@ -4,7 +4,7 @@ Olá! Eu sou a Mandy e este é meu laboratório de estudos e experiências. Fiqu
 
 ---
 - 👩🏼‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-- 🪐 Desenvolvedora na [Instruct](https://instruct.com.br/)
+- 🪐 Desenvolvedora na [Oto CRM](https://www.linkedin.com/company/otocrm/)
 - 💻 stack principal: ecossistema front-end
 - ✍ hobbies: ler, escrever, estudar, assistir e codificar
 - 👩‍💻 laboratório de tecnologia: [mandaxytecnologia.com.br](https://mandaxytecnologia.com.br/)
